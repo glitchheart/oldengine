@@ -1,0 +1,21 @@
+*.o
+*.exe
+*.gs
+
+x86_64/
+x86/
+
+
+### Emacs ###
+# -*- mode: gitignore; -*-
+*~
+\#*\#
+.\#*
+
+libgame.a
+build/
+.sln
+emacs.bat
+
+4ed.bat
+project.4coder
